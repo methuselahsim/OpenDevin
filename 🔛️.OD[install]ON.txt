@@ -2,7 +2,7 @@
 >>then instead of llama3 , use "CODEGEMMA"< its made specifically 4 coding>>5gb
 
 ollama pull codegemma
-ollama pull stable-code  (for "embedding")
+ollama pull stable-code  (for "embedding")https://ollama.com/blog/embedding-models
 
 (now w8 till install is done {it should work wsl style on ur ubuntu, till pydeps after}
 modelname codegemma
