@@ -8,6 +8,8 @@ ollama pull stable-code  (for "embedding")https://ollama.com/blog/embedding-mode
 modelname codegemma
 -e LLM_API_KEY="ollama" \
 http://host.docker.internal:11434
+______-
+The Ollama API is now available at 127.0.0.1:11434
 🔛️🔛️🔛️🔛️🔛️🔛️🔛️🔛️
 https://discord.com/channels/1222935860639563850/1226675986935054386/1226809587584335913
 🔛️
