@@ -1,4 +1,4 @@
-😇️always try [git init]; "make build" <in folder first {after restart!}
+✳️😇️always try [git init]; "make build" <in folder first {after restart!}
 also make build locks sometimes. stop term and just try again :/ {web curl can get interupted,build AGAIN }😇️
 🖥️*restarting linux/laptop after npm/ etc really helps..🖥️
 
@@ -238,12 +238,33 @@ https://stackoverflow.com/questions/9227873/fork-from-a-branch-in-github
 🐻️
 (*py 12 wasn't enough..) 
 https://vegastack.com/tutorials/how-to-install-python-3-11-on-ubuntu-22-04/
+or maybe it was.✳️🐻️
+🌊️🌊️🌊️🌊️🌊️🌊️🌊️🌊️🌊️🌊️🌊️🌊️🌊️🌊️🌊️🌊️
+🌊️current issues? 
+>starts html.✅️
+0.(wont answer any questions. something isn't hooked up ]❌️
+
+🌊️🌊️🌊️🌊️🌊️🌊️🌊️🌊️🌊️🌊️🌊️🌊️🌊️🌊️🌊️
 
 
 
 
 
-🗑️
+
+
+
+
+
+
+
+
+
+
+
+
+
+🗑️🗑️🗑️🗑️🗑️🗑️🗑️🗑️🗑️🗑️🗑️🗑️🗑️🗑️🗑️🗑️🗑️🗑️🗑️🗑️🗑️🗑️🗑️🗑️🗑️🗑️🗑️🗑️🗑️🗑️🗑️🗑️🗑️🗑️🗑️
+
 😠️
 
 🙃️
