@@ -1,0 +1,122 @@
+
+🗑️gonna put this away cuz it wasn't helpful but ; 
+
+requirments.txt < i couldnt ever find this , doubt youll need it and. 
+
+i also istalled pyhon3.11 (manually from site) 
+
+even  tho after i used python3.12 using "wsr" and im sure all that works .🗑️
+
+👨‍🚀️(i literally asked the discord..4 best OS + poetry=bad...w8ing.]
+
+can just look around here 4 wuts "SUPPOSED 2 be ...":/ 
+🧧️
+*found an install guide for wsl... im not opposed 2 using wsl i supposed. esp
+2 figure out how this is done...
+https://discord.com/channels/1222935860639563850/1226675986935054386/1226701539448590427
+🧧️
+👨‍🚀️
+(dont forget 2 install ollama first)
+📥️
+👹️gonna try 2 install py3 manually like that "not-troll" said on reinstall..., 
+then if that didn't work , wsl...but on ubuntu🐧️ , then on win🪟️...
+
+{poetry wouldn't have worked w/o this!}
+sudo apt-get install python3.12-venv
+
+👹️
+
+* install ollama
+*install open-devin 
+install nvm 
+https://blog.hubspot.com/website/update-node-js
+https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-22-04
+
+sudo systemctl status docker
+
+*update / upgrade first
+4 poetry just make sure u *update / upgrade first
+then do what "CLI"says but then u have 2 reboot. 
+thats all. 
+
+*also make sure ur really using python3.11 (10 isnt ok
+
+python3 -V
+
+ sudo add-apt-repository ppa:deadsnakes/ppa
+ sudo apt install python3.12
+ 
+ https://www.howtogeek.com/install-latest-python-version-on-ubuntu/
+ 
+ 
+ https://vegastack.com/tutorials/how-to-install-python-3-11-on-ubuntu-22-04/
+ 🦕️
+ *IM GONNA TRY SWITCHING PYTHONS USING THE PYTHON VERSION MANAGER OR W/E IT WAS 
+ *NOT IN PATH BUT THERE WAS SOME OTHER WAY I SAW (BUT LOST) altinstall OR SOMETHING
+ https://askubuntu.com/questions/682869/how-do-i-install-a-different-python-version-using-apt-get
+ make altinstall is used to prevent replacing the default python binary file /usr/bin/python.
+ 
+ backup?
+ https://askubuntu.com/questions/682869/how-do-i-install-a-different-python-version-using-apt-get
+ 
+ https://askubuntu.com/questions/1047445/altinstall-error
+ 🤣️still saying "poetry isn't install after all that (always fails here...)
+ maybe if os had only python13 or something w/e who knows...
+ ;
+ can u try something else? 
+ 
+ 🔍️just gonna look around in the arch of both progs... w/e 🔍️
+ 🤣️
+ 👩🏿‍🏭️
+ ./configure
+make clean
+sudo make autoinstall
+
+https://linuxconfig.org/how-to-change-from-default-to-alternative-python-version-on-debian-linux
+🐌️
+ls /usr/bin/python*
+/usr/bin/python3  /usr/bin/python3.10  /usr/bin/python3.11
+
+update-alternatives --list python
+
+ sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.10 2
+#update-alternatives: using /usr/bin/python3.10 to provide /usr/bin/python (python) in auto mode
+ sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.11 1
+#update-alternatives: using /usr/bin/python3.11 to provide /usr/bin/python (python) in auto mode
+💘️
+ls -larth `which python`*
+
+
+sudo update-alternatives --config python
+💘️
+🐌️
+👩🏿‍🏭️
+ 🦕️
+ 
+ https://python-poetry.org/docs/#installing-with-the-official-installer
+ https://python-poetry.org/docs/#installing-manually
+ (try manual ...
+ 
+------------------
+pipx install poetry==1.8.2 < DONT USE THIS
+
+Ignore vTHATv{its a waste}>>nightmare ( had 2 reinstall os...) 
+sudo apt install python3-poetry < NEVER USE THIS
+
+https://www.digitalocean.com/community/tutorials/how-to-install-poetry-to-manage-python-dependencies-on-ubuntu-22-04 ] 🐍️was rite b4 but was WRONG about this one :( 
+📥️
+🐫️figure out how 2 pipe olamma 2 text file dump. duh. 
+🖨️
+ollama run llama3 "prompt" >> response.md
+"BETTER" = https://askubuntu.com/questions/409541/save-the-terminal-history-to-a-file-for-print/409543#409543
+
+
+
+🖨️
+
+>ask if its keeping memory somewhere.
+[it lied and sais it does, but it doesnt?]
+
+>also i have seen stuff about stting params (dont bite off more than it can chew)
+
+
