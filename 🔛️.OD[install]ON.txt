@@ -1,5 +1,5 @@
-🤮️always try [git init]; "make build" <in folder first {after restart!}
-also make build locks sometimes. stop term and just try again :/ 🤮️
+😇️always try [git init]; "make build" <in folder first {after restart!}
+also make build locks sometimes. stop term and just try again :/ {web curl can get interupted,build AGAIN }😇️
 🖥️*restarting linux/laptop after npm/ etc really helps..🖥️
 
 🔛️ sudo snap install ollama >>first
