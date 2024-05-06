@@ -1,3 +1,7 @@
+🤮️always try [git init]; "make build" <in folder first {after restart!}
+also make build locks sometimes. stop term and just try again :/ 🤮️
+🖥️*restarting linux/laptop after npm/ etc really helps..🖥️
+
 🔛️ sudo snap install ollama >>first
 >>then instead of llama3 , use "CODEGEMMA"< its made specifically 4 coding>>5gb
 
@@ -8,7 +12,7 @@ ollama pull stable-code  (for "embedding")https://ollama.com/blog/embedding-mode
 modelname codegemma
 -e LLM_API_KEY="ollama" \
 http://host.docker.internal:11434
-______-
+__________________
 The Ollama API is now available at 127.0.0.1:11434
 🔛️🔛️🔛️🔛️🔛️🔛️🔛️🔛️
 https://discord.com/channels/1222935860639563850/1226675986935054386/1226809587584335913
@@ -231,7 +235,9 @@ make setup-config
 https://stackoverflow.com/questions/9227873/fork-from-a-branch-in-github
 💯️💯️💯️💯️💯️💯️💯️💯️💯️💯️💯️💯️💯️💯️💯️💯️💯️💯️
 
-
+🐻️
+(*py 12 wasn't enough..) 
+https://vegastack.com/tutorials/how-to-install-python-3-11-on-ubuntu-22-04/
 
 
 
@@ -260,6 +266,8 @@ pip install litellm, fastapi ,toml , docker , termcolor ,e2b,tenacity,browsergym
 json_repair
 🥬️
 grabbed "requirments.txt" from diff branch
+
+{install pip}
 
  python -m pip install -r requirements.txt
 
